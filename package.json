@@ -1,0 +1,20 @@
+{
+  "name": "server-agrovision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ridho",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^6.11.0",
+    "@tensorflow/tfjs": "^4.6.0",
+    "axios": "^1.4.0",
+    "bcrypt": "^5.1.0",
+    "express": "^4.18.2",
+    "firebase": "^9.22.1"
+  }
+}
